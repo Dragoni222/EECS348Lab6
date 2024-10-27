@@ -1,0 +1,49 @@
+body {
+  background-color: lightpink;
+}
+
+div{
+   font-size: 21px;
+    max-width: 800px;
+    margin-inline: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    white-space: pre-wrap;
+    width: 100%;  
+
+}
+
+p{
+  font-size: 21px;
+    max-width: 800px;
+    margin-inline: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    white-space: pre-wrap;
+    width: 100%;  
+}
+
+a{
+    font-size: 21px;
+    text-align: center;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+img {
+   display: block;
+  width: 20%;
+margin-inline: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
